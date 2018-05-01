@@ -1,0 +1,12 @@
+node_modules
+coverage
+.nyc_output
+dist
+lib
+bin
+*.tgz
+*.log
+tmp
+server.js
+.DS_Store
+thumbs.db
