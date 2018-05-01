@@ -11,7 +11,7 @@
     "watch-test": "tape-watch test/index.js",
     "build": "rollup -c",
     "test": "nyc --instrument false --source-map false -r text -r html node test",
-    "codecov": "nyc report -r lcov-text | codecov"
+    "codecov": "nyc report -r text-lcov | codecov"
   },
   "repository": "tshihyi/taiwan-invoice",
   "keywords": [

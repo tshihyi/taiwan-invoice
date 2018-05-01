@@ -2,6 +2,10 @@
 
 電子發票工具
 
+[![Build Status](https://travis-ci.org/tshihyi/taiwan-invoice.svg?branch=master)](https://travis-ci.org/tshihyi/taiwan-invoice)
+[![Coverage](https://img.shields.io/codecov/c/github/tshihyi/taiwan-invoice.svg)](https://codecov.io/gh/tshihyi/taiwan-invoice)
+[![npm](https://img.shields.io/npm/v/taiwan-invoice.svg)](https://www.npmjs.com/package/taiwan-invoice)
+
 ## API
 
 ### `parseCode()`
